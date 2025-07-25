@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"hello";
-    cout<<"------welcome-------";
+    cout<<"hello"<<endl;
+    cout<<"------welcome-------"<<endl;
 
 }
